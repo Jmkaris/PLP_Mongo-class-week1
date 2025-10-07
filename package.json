@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^8.19.1"
+  },
+  "name": "plp_mongo-class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmkaris/PLP_Mongo-class-week1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmkaris/PLP_Mongo-class-week1/issues"
+  },
+  "homepage": "https://github.com/Jmkaris/PLP_Mongo-class-week1#readme",
+  "description": ""
+}
